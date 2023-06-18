@@ -1,0 +1,13 @@
+.m123Body{
+    background-color: rgba(0, 0, 0, 0.41);
+}
+
+.Navbar123
+{
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.821);
+    padding-top: 5px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
